@@ -10,3 +10,8 @@
 9 - Write a function that prints the 9 times table, starting with 0.
 10 - Write a function that adds two integers and returns the result. 
 11 - Write a function that prints all natural numbers from n to 98, followed by a new line.
+12 - Write a function that prints the n times table, starting with 0.
+13 - Nature made the natural numbers; All else is the work of women
+14 - Write a program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
+15 - Even Liber Abbaci
+16 - Write a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
